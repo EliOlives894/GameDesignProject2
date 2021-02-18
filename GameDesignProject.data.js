@@ -173,6 +173,6 @@ Module['FS_createPath']('/GameDesignProject/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 107, "filename": "/UE4CommandLine.txt"}, {"start": 107, "audio": 0, "end": 56199777, "filename": "/GameDesignProject/Content/Paks/GameDesignProject-HTML5.pak"}], "remote_package_size": 56199777, "package_uuid": "d41a6e78-a688-4a36-bacd-ef74bfecd048"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 107, "filename": "/UE4CommandLine.txt"}, {"start": 107, "audio": 0, "end": 56199765, "filename": "/GameDesignProject/Content/Paks/GameDesignProject-HTML5.pak"}], "remote_package_size": 56199765, "package_uuid": "ad101263-08ec-4e06-bd7c-6ca4123cadd5"});
 
 })();
